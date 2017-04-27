@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 4d79ff320f6506448b2a22c36c57eb14
+timeCreated: 1492705718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bridges
+    100002: bumpers
+    100004: dTails
+    100006: ext
+    100008: exterior_HighResLightning
+    100010: exterior_lowResLightning
+    100012: groundPlane
+    100014: group53
+    100016: group54
+    100018: HighGround
+    100020: HighGround1
+    100022: //RootNode
+    100024: nonConvexWalls
+    100026: pCube10
+    100028: pCube11
+    100030: pCube12
+    100032: pCube13
+    100034: pCube14
+    100036: pCube15
+    100038: pCube16
+    100040: pCube17
+    100042: pCube18
+    100044: pCube19
+    100046: pCube19 1
+    100048: pCube9
+    100050: pCylinder10
+    100052: pCylinder3
+    100054: pCylinder4
+    100056: pCylinder5
+    100058: pCylinder6
+    100060: pCylinder7
+    100062: pCylinder8
+    100064: pCylinder9
+    100066: polySurface19
+    100068: polySurface20
+    100070: polySurface21
+    100072: polySurface22
+    100074: polySurface23
+    100076: polySurface28
+    100078: polySurface29
+    100080: ramp
+    100082: ramp1
+    100084: ramp2
+    100086: ramp3
+    100088: Shield
+    100090: Shield 1
+    100092: walking_surface
+    100094: WalkingSurface
+    100096: WalkingSurface 1
+    100098: WalkingSurface 2
+    100100: WalkingSurface 3
+    100102: WalkingSurface 4
+    100104: WalkingSurface 5
+    100106: WallCollider
+    100108: wallCollider
+    100110: WallCollider 1
+    100112: wallCollider 1
+    100114: WallCollider 2
+    100116: wallCollider 2
+    100118: wallCollider 3
+    400000: bridges
+    400002: bumpers
+    400004: dTails
+    400006: ext
+    400008: exterior_HighResLightning
+    400010: exterior_lowResLightning
+    400012: groundPlane
+    400014: group53
+    400016: group54
+    400018: HighGround
+    400020: HighGround1
+    400022: //RootNode
+    400024: nonConvexWalls
+    400026: pCube10
+    400028: pCube11
+    400030: pCube12
+    400032: pCube13
+    400034: pCube14
+    400036: pCube15
+    400038: pCube16
+    400040: pCube17
+    400042: pCube18
+    400044: pCube19
+    400046: pCube19 1
+    400048: pCube9
+    400050: pCylinder10
+    400052: pCylinder3
+    400054: pCylinder4
+    400056: pCylinder5
+    400058: pCylinder6
+    400060: pCylinder7
+    400062: pCylinder8
+    400064: pCylinder9
+    400066: polySurface19
+    400068: polySurface20
+    400070: polySurface21
+    400072: polySurface22
+    400074: polySurface23
+    400076: polySurface28
+    400078: polySurface29
+    400080: ramp
+    400082: ramp1
+    400084: ramp2
+    400086: ramp3
+    400088: Shield
+    400090: Shield 1
+    400092: walking_surface
+    400094: WalkingSurface
+    400096: WalkingSurface 1
+    400098: WalkingSurface 2
+    400100: WalkingSurface 3
+    400102: WalkingSurface 4
+    400104: WalkingSurface 5
+    400106: WallCollider
+    400108: wallCollider
+    400110: WallCollider 1
+    400112: wallCollider 1
+    400114: WallCollider 2
+    400116: wallCollider 2
+    400118: wallCollider 3
+    2300000: exterior_lowResLightning
+    2300002: pCube10
+    2300004: pCube11
+    2300006: pCube12
+    2300008: pCube13
+    2300010: pCube14
+    2300012: pCube15
+    2300014: pCube16
+    2300016: pCube17
+    2300018: pCube18
+    2300020: pCube19
+    2300022: pCube19 1
+    2300024: pCube9
+    2300026: pCylinder10
+    2300028: pCylinder3
+    2300030: pCylinder4
+    2300032: pCylinder5
+    2300034: pCylinder6
+    2300036: pCylinder7
+    2300038: pCylinder8
+    2300040: pCylinder9
+    2300042: polySurface19
+    2300044: polySurface20
+    2300046: polySurface21
+    2300048: polySurface22
+    2300050: polySurface23
+    2300052: polySurface28
+    2300054: polySurface29
+    2300056: Shield
+    2300058: Shield 1
+    2300060: walking_surface
+    2300062: WalkingSurface
+    2300064: WalkingSurface 1
+    2300066: WalkingSurface 2
+    2300068: WalkingSurface 3
+    2300070: WalkingSurface 4
+    2300072: WalkingSurface 5
+    2300074: WallCollider
+    2300076: wallCollider
+    2300078: WallCollider 1
+    2300080: wallCollider 1
+    2300082: WallCollider 2
+    2300084: wallCollider 2
+    2300086: wallCollider 3
+    3300000: exterior_lowResLightning
+    3300002: pCube10
+    3300004: pCube11
+    3300006: pCube12
+    3300008: pCube13
+    3300010: pCube14
+    3300012: pCube15
+    3300014: pCube16
+    3300016: pCube17
+    3300018: pCube18
+    3300020: pCube19
+    3300022: pCube19 1
+    3300024: pCube9
+    3300026: pCylinder10
+    3300028: pCylinder3
+    3300030: pCylinder4
+    3300032: pCylinder5
+    3300034: pCylinder6
+    3300036: pCylinder7
+    3300038: pCylinder8
+    3300040: pCylinder9
+    3300042: polySurface19
+    3300044: polySurface20
+    3300046: polySurface21
+    3300048: polySurface22
+    3300050: polySurface23
+    3300052: polySurface28
+    3300054: polySurface29
+    3300056: Shield
+    3300058: Shield 1
+    3300060: walking_surface
+    3300062: WalkingSurface
+    3300064: WalkingSurface 1
+    3300066: WalkingSurface 2
+    3300068: WalkingSurface 3
+    3300070: WalkingSurface 4
+    3300072: WalkingSurface 5
+    3300074: WallCollider
+    3300076: wallCollider
+    3300078: WallCollider 1
+    3300080: wallCollider 1
+    3300082: WallCollider 2
+    3300084: wallCollider 2
+    3300086: wallCollider 3
+    4300000: WallCollider
+    4300002: WalkingSurface
+    4300004: WallCollider
+    4300006: WalkingSurface
+    4300008: walking_surface
+    4300010: WallCollider
+    4300012: wallCollider
+    4300014: WalkingSurface
+    4300016: Shield
+    4300018: wallCollider
+    4300020: WalkingSurface
+    4300022: Shield
+    4300024: WalkingSurface
+    4300026: wallCollider
+    4300028: WalkingSurface
+    4300030: wallCollider
+    4300032: pCylinder3
+    4300034: pCylinder5
+    4300036: pCube11
+    4300038: pCube12
+    4300040: pCylinder4
+    4300042: pCylinder6
+    4300044: pCube10
+    4300046: pCube13
+    4300048: pCylinder8
+    4300050: pCylinder10
+    4300052: pCube14
+    4300054: pCube15
+    4300056: pCylinder7
+    4300058: pCylinder9
+    4300060: pCube16
+    4300062: pCube17
+    4300064: polySurface19
+    4300066: polySurface20
+    4300068: polySurface21
+    4300070: polySurface22
+    4300072: pCube9
+    4300074: pCube18
+    4300076: pCube19
+    4300078: pCube19
+    4300080: polySurface28
+    4300082: polySurface29
+    4300084: exterior_lowResLightning
+    4300086: polySurface23
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

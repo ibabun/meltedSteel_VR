@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: b80dc9e929060854791f0f1b20d33d95
+timeCreated: 1492098725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character2_Head
+    100002: Character2_Hips
+    100004: Character2_LeftArm
+    100006: Character2_LeftFoot
+    100008: Character2_LeftForeArm
+    100010: Character2_LeftHand
+    100012: Character2_LeftLeg
+    100014: Character2_LeftToeBase
+    100016: Character2_LeftUpLeg
+    100018: Character2_Reference
+    100020: Character2_RightArm
+    100022: Character2_RightFoot
+    100024: Character2_RightForeArm
+    100026: Character2_RightHand
+    100028: Character2_RightLeg
+    100030: Character2_RightToeBase
+    100032: Character2_RightUpLeg
+    100034: Character2_Spine
+    100036: footL
+    100038: footR
+    100040: kneeL
+    100042: kneeR
+    100044: //RootNode
+    100046: LegL
+    100048: legR
+    100050: pCube4
+    100052: pCube5
+    100054: pCube6
+    100056: pCube7
+    100058: pCube8
+    100060: pCube9
+    100062: pCylinder1
+    100064: pCylinder2
+    100066: pCylinder5
+    100068: pCylinder6
+    100070: pCylinder7
+    100072: pCylinder8
+    100074: root
+    400000: Character2_Head
+    400002: Character2_Hips
+    400004: Character2_LeftArm
+    400006: Character2_LeftFoot
+    400008: Character2_LeftForeArm
+    400010: Character2_LeftHand
+    400012: Character2_LeftLeg
+    400014: Character2_LeftToeBase
+    400016: Character2_LeftUpLeg
+    400018: Character2_Reference
+    400020: Character2_RightArm
+    400022: Character2_RightFoot
+    400024: Character2_RightForeArm
+    400026: Character2_RightHand
+    400028: Character2_RightLeg
+    400030: Character2_RightToeBase
+    400032: Character2_RightUpLeg
+    400034: Character2_Spine
+    400036: footL
+    400038: footR
+    400040: kneeL
+    400042: kneeR
+    400044: //RootNode
+    400046: LegL
+    400048: legR
+    400050: pCube4
+    400052: pCube5
+    400054: pCube6
+    400056: pCube7
+    400058: pCube8
+    400060: pCube9
+    400062: pCylinder1
+    400064: pCylinder2
+    400066: pCylinder5
+    400068: pCylinder6
+    400070: pCylinder7
+    400072: pCylinder8
+    400074: root
+    2300000: pCube4
+    2300002: pCube5
+    3300000: pCube4
+    3300002: pCube5
+    4300000: LegL
+    4300002: pCube6
+    4300004: pCylinder7
+    4300006: legR
+    4300008: pCube7
+    4300010: pCylinder8
+    4300012: kneeL
+    4300014: pCube8
+    4300016: kneeR
+    4300018: pCube9
+    4300020: root
+    4300022: pCylinder6
+    4300024: pCylinder5
+    4300026: footL
+    4300028: pCylinder1
+    4300030: footR
+    4300032: pCylinder2
+    4300034: pCube4
+    4300036: pCube5
+    7400000: Landing2
+    9500000: //RootNode
+    13700000: footL
+    13700002: footR
+    13700004: kneeL
+    13700006: kneeR
+    13700008: LegL
+    13700010: legR
+    13700012: pCube6
+    13700014: pCube7
+    13700016: pCube8
+    13700018: pCube9
+    13700020: pCylinder1
+    13700022: pCylinder2
+    13700024: pCylinder5
+    13700026: pCylinder6
+    13700028: pCylinder7
+    13700030: pCylinder8
+    13700032: root
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Landing2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 62c3d82a51b26fb4da5d50633b118aa9,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

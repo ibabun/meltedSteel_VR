@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: 62c3d82a51b26fb4da5d50633b118aa9
+timeCreated: 1489596449
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabin
+    100002: cabinHorizontRotatorToSpine
+    100004: Character2_Head
+    100006: Character2_Hips
+    100008: Character2_LeftArm
+    100010: Character2_LeftFoot
+    100012: Character2_LeftForeArm
+    100014: Character2_LeftHand
+    100016: Character2_LeftLeg
+    100018: Character2_LeftToeBase
+    100020: Character2_LeftUpLeg
+    100022: Character2_Reference
+    100024: Character2_RightArm
+    100026: Character2_RightFoot
+    100028: Character2_RightForeArm
+    100030: Character2_RightHand
+    100032: Character2_RightLeg
+    100034: Character2_RightToeBase
+    100036: Character2_RightUpLeg
+    100038: Character2_Spine
+    100040: fireL
+    100042: firteR
+    100044: footL
+    100046: footR
+    100048: kneeL
+    100050: kneeR
+    100052: LegL
+    100054: legR
+    100056: pCube4
+    100058: pCube5
+    100060: pCube6
+    100062: pCube7
+    100064: pCube8
+    100066: pCube9
+    100068: pCylinder1
+    100070: pCylinder2
+    100072: pCylinder5
+    100074: pCylinder6
+    100076: pCylinder7
+    100078: pCylinder8
+    100080: //RootNode
+    100082: root
+    400000: cabin
+    400002: cabinHorizontRotatorToSpine
+    400004: Character2_Head
+    400006: Character2_Hips
+    400008: Character2_LeftArm
+    400010: Character2_LeftFoot
+    400012: Character2_LeftForeArm
+    400014: Character2_LeftHand
+    400016: Character2_LeftLeg
+    400018: Character2_LeftToeBase
+    400020: Character2_LeftUpLeg
+    400022: Character2_Reference
+    400024: Character2_RightArm
+    400026: Character2_RightFoot
+    400028: Character2_RightForeArm
+    400030: Character2_RightHand
+    400032: Character2_RightLeg
+    400034: Character2_RightToeBase
+    400036: Character2_RightUpLeg
+    400038: Character2_Spine
+    400040: fireL
+    400042: firteR
+    400044: footL
+    400046: footR
+    400048: kneeL
+    400050: kneeR
+    400052: LegL
+    400054: legR
+    400056: pCube4
+    400058: pCube5
+    400060: pCube6
+    400062: pCube7
+    400064: pCube8
+    400066: pCube9
+    400068: pCylinder1
+    400070: pCylinder2
+    400072: pCylinder5
+    400074: pCylinder6
+    400076: pCylinder7
+    400078: pCylinder8
+    400080: //RootNode
+    400082: root
+    2300000: cabin
+    2300002: cabinHorizontRotatorToSpine
+    2300004: fireL
+    2300006: firteR
+    2300008: pCube4
+    2300010: pCube5
+    3300000: cabin
+    3300002: cabinHorizontRotatorToSpine
+    3300004: fireL
+    3300006: firteR
+    3300008: pCube4
+    3300010: pCube5
+    4300000: LegL
+    4300002: pCube6
+    4300004: pCylinder7
+    4300006: cabinHorizontRotatorToSpine
+    4300008: cabin
+    4300010: fireL
+    4300012: firteR
+    4300014: legR
+    4300016: pCube7
+    4300018: pCylinder8
+    4300020: kneeL
+    4300022: pCube8
+    4300024: kneeR
+    4300026: pCube9
+    4300028: root
+    4300030: pCylinder6
+    4300032: pCylinder5
+    4300034: footL
+    4300036: pCylinder1
+    4300038: footR
+    4300040: pCylinder2
+    4300042: pCube4
+    4300044: pCube5
+    7400000: idle
+    7400002: WalkC
+    7400004: StrafeLeft
+    7400006: stafeRight
+    7400008: jumpUP
+    7400010: JumpIDLE
+    7400012: jumpDown
+    9500000: //RootNode
+    13700000: footL
+    13700002: footR
+    13700004: kneeL
+    13700006: kneeR
+    13700008: LegL
+    13700010: legR
+    13700012: pCube6
+    13700014: pCube7
+    13700016: pCube8
+    13700018: pCube9
+    13700020: pCylinder1
+    13700022: pCylinder2
+    13700024: pCylinder5
+    13700026: pCylinder6
+    13700028: pCylinder7
+    13700030: pCylinder8
+    13700032: root
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 426
+      lastFrame: 436
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkC
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeLeft
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 241
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stafeRight
+      takeName: Take 001
+      firstFrame: 242
+      lastFrame: 302
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jumpUP
+      takeName: Take 001
+      firstFrame: 303
+      lastFrame: 333
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: JumpIDLE
+      takeName: Take 001
+      firstFrame: 334
+      lastFrame: 394
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jumpDown
+      takeName: Take 001
+      firstFrame: 395
+      lastFrame: 425
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character2_Reference/Character2_Hips
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/Character2_LeftFoot/Character2_LeftToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_LeftUpLeg/Character2_LeftLeg/pCube4
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/Character2_RightFoot/Character2_RightToeBase
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_RightUpLeg/Character2_RightLeg/pCube5
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_Head
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_LeftArm/Character2_LeftForeArm/Character2_LeftHand
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm
+        weight: 1
+      - path: Character2_Reference/Character2_Hips/Character2_Spine/Character2_RightArm/Character2_RightForeArm/Character2_RightHand
+        weight: 1
+      - path: footL
+        weight: 1
+      - path: footL/pCylinder1
+        weight: 1
+      - path: footR
+        weight: 1
+      - path: footR/pCylinder2
+        weight: 1
+      - path: kneeL
+        weight: 1
+      - path: kneeL/pCube8
+        weight: 1
+      - path: kneeR
+        weight: 1
+      - path: kneeR/pCube9
+        weight: 1
+      - path: LegL
+        weight: 1
+      - path: LegL/pCube6
+        weight: 1
+      - path: LegL/pCube6/pCylinder7
+        weight: 1
+      - path: legR
+        weight: 1
+      - path: legR/pCube7
+        weight: 1
+      - path: legR/pCube7/pCylinder8
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/pCylinder5
+        weight: 1
+      - path: root/pCylinder6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
